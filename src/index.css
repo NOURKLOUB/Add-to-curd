@@ -1,0 +1,12 @@
+ 
+/*var color*/
+:root{
+  --fullback:rgb(24,29,37);
+  --fullcolor:#fff;
+}
+/*body pags*/
+body{
+  background-color: var(--fullback);
+  color: var(--fullcolor);
+}
+

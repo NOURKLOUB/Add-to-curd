@@ -1,0 +1,11 @@
+h1.fulls{
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 1px;
+}
+p.cd{
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 50px;
+}
